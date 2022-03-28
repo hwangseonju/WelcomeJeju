@@ -20,5 +20,10 @@ public abstract class OAuth2UserInfo {
     public String getEmail(){
         return "SOCIAL";
     };
- 
+    
+//    public abstract String getImageUrl();
+    
+    public abstract String getAgeRange();
+    
+    public abstract String getGender();
 }
