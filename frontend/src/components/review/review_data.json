@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "response": {
+    "text": "애월 여행은 정말 짱이였다 나중에 이효리 만나면 싸인해 달라고 해야지",
+    "image": [
+      "string"
+    ],
+    "travel": 0
+  },
+  "error": {
+    "message": "string",
+    "status": 0
+  }
+}

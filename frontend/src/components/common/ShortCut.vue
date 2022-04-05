@@ -1,9 +1,9 @@
 <template>
   <div class="parent_div">
-    <div class="child_div_1">
+    <div class="child_div">
       <router-link to="/">메인페이지로 </router-link>
     </div>
-    <div class="child_div_2">
+    <div class="child_div">
       <router-link to="/">로그인</router-link>
     </div>
   </div>
@@ -25,7 +25,7 @@ export default {
   height: 10px;
   float: left;
 }
-.child_div_1 {
+.child_div {
   float: left;
   margin-right: 5px;
 }
